@@ -8,6 +8,7 @@ ID : AVXAJKOXPJJYPGKJSRAOSSCOXSNAYLQZPKKUFBDZFFHCYZPBROWKFGRCQCUL
 
 Purpose: To further decentralize Qubic Capital by developing a robust voting platform integrated with QVAULT, enhancing its smart contract, and creating a user-friendly Dapp for $QCAP holders.
 
+
 UPDATE ON OUR FIRST GRANT
 
 In October 2024, Qubic Capital requested 5.5 billion QUBIC to implement the first phase of QVAULT. Below are the milestones we achieved:
@@ -19,13 +20,16 @@ In October 2024, Qubic Capital requested 5.5 billion QUBIC to implement the firs
 
 With upcoming smart contract IPOs, Qubic Capital anticipates burning hundreds of billions of QUBIC, further aligning with the deflationary vision championed by Come-from-Beyond (CfB).
 
+
 PROPOSAL: QVAULT V2
 
 Objective: To further decentralize Qubic Capital by creating a robust voting platform integrated with the QVAULT smart contract, empowering both small and large $QCAP holders, and promoting passive income through smart contract fees.
 
+
 CURRENT LIMITATIONS
 
 Currently, decisions are made through Discord voting, managed manually by the team. This system, while functional, is not scalable and limits the decentralized vision of Qubic Capital.
+
 
 FEATURES OF QVAULT V2
 
@@ -56,9 +60,11 @@ Proposal Creation Fees:
 - A dynamic fee will be charged for every proposal created, initially set at 10M QUBIC to discourage spam and ensure quality proposals.
 - Adjustable Fee: QVAULT shareholders will have the ability to adjust the fee as needed, balancing spam prevention and proposal accessibility.
 
+
 DEVELOPER INFORMATION
 
 The QVAULT smart contract will be updated by Poly, who previously developed Qearn and the first version of QVAULT. With proven expertise in smart contract development, Poly’s involvement ensures technical success. We expect the project to be completed in 15 weeks.
+
 
 SPENDING PLAN
 
@@ -68,6 +74,7 @@ The requested 12.5 billion QUBIC will be allocated as follows:
 - Contingency Reserve: To ensure smooth execution and handle any unforeseen challenges.
 
 Wolf will oversee the allocation of funds to ensure accountability and transparency.
+
 
 CONCLUSION
 
