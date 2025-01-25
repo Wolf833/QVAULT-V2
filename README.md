@@ -16,6 +16,7 @@ Option 0: no, dont allow
 Option 1: yes, allow
 
 
+
 **UPDATE ON OUR FIRST GRANT**
 
 In October 2024, Qubic Capital requested 5.5 billion QUBIC to implement the first phase of QVAULT. Below are the milestones we achieved:
