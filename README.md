@@ -10,6 +10,7 @@ Purpose: To further decentralize Qubic Capital by developing a robust voting pla
 
 
 **AVAILABLE OPTIONS**
+
 Option 0: no, dont allow
 
 Option 1: yes, allow
