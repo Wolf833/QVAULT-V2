@@ -2,6 +2,7 @@
 
 Grant Proposal: QVAULT V2
 Requested Amount: 12.5 billion QUBIC
+
 ID : AVXAJKOXPJJYPGKJSRAOSSCOXSNAYLQZPKKUFBDZFFHCYZPBROWKFGRCQCUL
 
 Purpose: To further decentralize Qubic Capital by developing a robust voting platform integrated with QVAULT, enhancing its smart contract, and creating a user-friendly Dapp for $QCAP holders.
