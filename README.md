@@ -1,4 +1,4 @@
-# QVAULT-V2
+# Funding Request - QVAULT-V2
 
 **Grant Proposal: QVAULT V2**
 
