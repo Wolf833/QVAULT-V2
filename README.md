@@ -57,9 +57,11 @@ Proposal Creation Fees:
 - Adjustable Fee: QVAULT shareholders will have the ability to adjust the fee as needed, balancing spam prevention and proposal accessibility.
 
 DEVELOPER INFORMATION
+
 The QVAULT smart contract will be updated by Poly, who previously developed Qearn and the first version of QVAULT. With proven expertise in smart contract development, Poly’s involvement ensures technical success. We expect the project to be completed in 15 weeks.
 
 SPENDING PLAN
+
 The requested 12.5 billion QUBIC will be allocated as follows:
 - Smart Contract Update: To enhance QVAULT’s features and integrate the voting platform.
 - Dapp Development: To provide $QCAP holders with seamless access to voting and other functionalities.
@@ -68,5 +70,6 @@ The requested 12.5 billion QUBIC will be allocated as follows:
 Wolf will oversee the allocation of funds to ensure accountability and transparency.
 
 CONCLUSION
+
 Funding QVAULT V2 will empower both small and large $QCAP holders, enabling true decentralization and improving passive income opportunities through smart contract fees. By supporting this grant, you will help realize the vision of a fully decentralized Qubic Capital while contributing to the broader success of the QUBIC ecosystem.
 Thank you for your support!
